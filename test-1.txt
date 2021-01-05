@@ -1,3 +1,4 @@
 test1
 linijka2
 linijka3
+linijka4
