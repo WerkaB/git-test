@@ -1,5 +1,5 @@
 test1
-linijka2
+linijka2 -- tutaj zmiana nr 2
 linijka3
 linijka4
 linijka5
