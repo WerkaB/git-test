@@ -1,3 +1,2 @@
 kod testowy
 linijka druga
-tu jest zmiana ktora chcialam ale zapomnialam zmienic branch
