@@ -4,3 +4,4 @@ linijka2 -- tutaj zmiana nr 1
 linijka3
 linijka4
 linijka5
+linijka7
