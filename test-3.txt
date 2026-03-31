@@ -1,2 +1,2 @@
 kod testowy
-linijka druga
+LINIJKA DRUGA
